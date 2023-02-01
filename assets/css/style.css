@@ -132,6 +132,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Updated to h4 for sequential header order */
+.footer h4 {
     font-size: 20px;
 }
