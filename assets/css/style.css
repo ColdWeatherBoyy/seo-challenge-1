@@ -67,6 +67,7 @@ p {
     margin-left: 20px;
 }
 
+/* thought it best to leave class definitions and their descendant selectors together, so listed these class rules above */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -91,13 +92,12 @@ p {
     max-height: 200px;
 }
 
-
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* combined all benefits-related CSS rules into a single class and updated other CSS rules and index.html that depended on them  */
+/* combined all benefits-related CSS rules into a single class and updated other descendant selectors and the index.html that depended on them  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
