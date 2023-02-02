@@ -10,7 +10,8 @@ N/A
 
 ## Usage
 
-To use this page, navigate to its URL (to be filled in when repo is live) and browse. Utilize navbar links to jump to appropriate sections.
+To use this page, <a href="https://coldweatherboyy.github.io/seo-challenge-1/">click here</a> and browse. Utilize navbar links to jump to appropriate sections. Screenshot as can be seen below:
+<img src="./assets/images/HoriseonScreenshot.png" alt="Screenshot of Horiseon homepage">
 
 ## Credits
 
